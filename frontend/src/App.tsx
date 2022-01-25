@@ -7,6 +7,7 @@ function App() {
       <div className="App">
         <body>
           <h1>Agenda On-line</h1>
+          <h2>Faça a sua agenda de um jeito mais rápido!</h2>
         </body>
       </div>
     </>
